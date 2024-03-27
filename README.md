@@ -7,16 +7,16 @@ This is an example of a simple rails tryout app using devise authentication
 a step by step tutorial of how I set up devise on a simple rails app on my local machine 
 
 ## What this isn't:
-This is not a substitute for in-depth tutorials or official information about the devise gem! Devise has many more options and many more different ways to configure than just those which are shown here.
+This is not a substitute for in-depth tutorials or official information about the devise gem! The devise authentication gem has many more options and many more different ways to configure than just those which are shown here.
 
-This app uses sqlite and is in the development environment. It is NOT production-ready!
+This app uses sqlite and is in the development environment. It is NOT production-ready.
 
 ## Summary
  This repo simply contains the following 2 things:
 
 - instructions to replicate what I set up on my local machine to start using devise in a rails app, plus some additional comments and notes of things to be aware of
 
-- the code of the resultant rails app by the end of all the instructions (it's very simple app that doesn't do much - details of what it actually does are towards the end of this page)
+- the code of the resultant rails app by the end of all the instructions (it's a very simple app that doesn't do much - details of what it actually does are towards the end of this page)
 
 ## Instructions for use
 Really, the most useful thing is the step by step instructions on this repo's Wiki, not the code of the repo itself. You can read the instructions here LINK.
