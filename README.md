@@ -9,6 +9,8 @@ a step by step tutorial of how I set up devise on a simple rails app on my local
 ## What this isn't:
 This is not a substitute for in-depth tutorials or official information about the devise gem! Devise has many more options and many more different ways to configure than just those which are shown here.
 
+This app uses sqlite and is in the development environment. This is not a production-ready rails app!
+
 ## Summary
  This repo simply contains the following 2 things:
 
