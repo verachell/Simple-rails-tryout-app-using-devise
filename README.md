@@ -32,6 +32,6 @@ You can download the repo if you wish to play around with it, but you'll find it
 
 - 1 page which can be accessed by anyone but which displays additional or different content when accessed by a logged-in user
 
-- Set up timeoutable so that a logged-in user is automatically logged out after x time 
+- Set up timeoutable so that a logged-in user is automatically logged out after x time of inactivity
 
 - Finally, set up lockable to have account lockout time after password fails, to help prevent brute force atacks
