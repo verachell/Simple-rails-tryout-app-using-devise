@@ -1,0 +1,9 @@
+ <p class="notice"><%= notice %></p>
+       <p class="alert"><%= alert %></p>
+<h1>User dashboard</h1>
+<p>Only logged in users can see this content</p>
+
+ <h2>Welcome <%= current_user.email %> </div></h2>
+  <%= button_to "Sign out", destroy_user_session_path, method: :delete %> 
+<h3>Your dashboard info</h3>
+<p>Whatever info should be in the dashboard</p>

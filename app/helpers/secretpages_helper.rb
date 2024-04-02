@@ -1,0 +1,2 @@
+module SecretpagesHelper
+end

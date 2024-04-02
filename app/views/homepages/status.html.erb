@@ -1,0 +1,11 @@
+<p class="notice"><%= notice %></p>
+<p class="alert"><%= alert %></p> 
+<h1>Sign in and out</h1>
+<p>You should be redirected here after login or signup</p>
+
+<% if user_signed_in? %> 
+ <div> Welcome <%= current_user.email %> </div> 
+  <%= button_to "Sign out", destroy_user_session_path, method: :delete %> 
+<% else %>
+  <%= button_to "Sign in", new_user_session_path %> 
+<% end %>
