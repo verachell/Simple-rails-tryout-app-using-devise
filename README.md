@@ -7,7 +7,7 @@ This is an example of a simple rails tryout app using devise authentication
 a step by step tutorial of setting up the [devise](https://github.com/heartcombo/devise) authentication gem on a simple rails app on my local machine 
 
 ## What this isn't:
-This is not a substitute for in-depth tutorials or official information about the devise gem! The devise authentication gem has many more options and many more different ways to configure than just those which are shown here.
+This is not a substitute for in-depth tutorials or [official information about the devise gem](https://github.com/heartcombo/devise/wiki)! The devise authentication gem has many more options and many more different ways to configure than just those which are shown here.
 
 This app uses sqlite and is in the development environment. It is NOT production-ready.
 
