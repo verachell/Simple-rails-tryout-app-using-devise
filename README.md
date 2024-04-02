@@ -19,7 +19,7 @@ This app uses sqlite and is in the development environment. It is NOT production
 - the code of the resultant rails app by the end of all the instructions (it's a very simple app that doesn't do much - details of what it actually does are towards the end of this page)
 
 ## Instructions for use
-Really, the most useful thing is the step by step instructions on this repo's Wiki, not the code of the repo itself. You can read the instructions here LINK.
+Really, the most useful thing is the step by step instructions on this repo's Wiki, not the code of the repo itself. You can read the instructions here [LINK](https://github.com/verachell/Simple-rails-tryout-app-using-devise/wiki)
 
 You can download the repo if you wish to play around with it, but you'll find it more helpful to build your own by following the instructions mentioned in this repo's wiki link above. If you decide to download the repo, you'll need ruby already installed on your machine, as well as the devise gem. No other gems are needed besides those which are already in a standard default rails install.  To view the resultant app in the local development environment, navigate to the working directory and type bin/rails server, then open the browser and navigate to localhost:3000
 
